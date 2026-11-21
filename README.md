@@ -1,4 +1,4 @@
-# Digital Document Repository Platform
+<img width="1345" height="632" alt="user login" src="https://github.com/user-attachments/assets/9698a8d9-118f-40f3-9071-90aa250e43a4" /># Digital Document Repository Platform
 
 A full-stack document management web application built with PHP and MySQL. Users can register, log in, upload files (PDF, DOCX, PPT, JPG, PNG), organize documents by category, and search, preview, edit, or download them, while administrators get a dedicated dashboard to manage users, categories, documents, and upload analytics.
 
@@ -179,20 +179,36 @@ role you just logged out of.
 
 ## 🖼 Screenshots & Diagrams
 
-This deliverable was generated in a sandboxed environment without a live XAMPP/MySQL
-server, so browser screenshots of each running page could not be captured here. Once you
-follow the installation steps above, every page (login, register, dashboard, upload,
-documents, categories, search, profile, and the full admin panel) will render using the
-Bootstrap 5 UI described in this README — take screenshots directly from your browser for
-your submission.
+--User Login
+<img width="1345" height="632" alt="User Login" src="https://github.com/user-attachments/assets/666fd57b-5d46-4f41-9c09-b27820451fb0" />
 
-The `docs/` folder contains ready-to-use diagrams for your report:
-- `er_diagram.png` — Entity-Relationship Diagram
-- `dfd_level0.png` / `dfd_level1.png` — Data Flow Diagrams
-- `flowchart.png` — System flowchart
-- `Project_Report.docx` — Complete project report (Introduction, Objectives, Scope,
-  Software/Hardware Requirements, ER Diagram, Database Schema, DFD, Flowchart, Modules,
-  Testing, Future Scope, Conclusion)
+--Upload New Document
+<img width="1333" height="632" alt="Upload New Document " src="https://github.com/user-attachments/assets/43c33212-2456-4c55-91ad-be51fc860415" />
+
+--Admin Login
+<img width="1351" height="629" alt="Admin Login" src="https://github.com/user-attachments/assets/495d12fd-74f8-409c-8697-cc9c5aeae979" />
+
+--Admin Dashboard
+<img width="1335" height="635" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/a59abf9b-a101-4632-9a5a-1e529c379ab8" />
+
+## 📐 System Architecture & Diagrams
+
+--Entity-Relationship (ER) Diagram
+<img width="1510" height="688" alt="ER Diagram" src="https://github.com/user-attachments/assets/6ac1cae3-7835-4309-b4a6-f629a0507747" />
+
+--System Flowchart
+<img width="1408" height="768" alt="System FlowChart" src="https://github.com/user-attachments/assets/82b987bd-4a61-4489-ae4e-54a403975c33" />
+
+--Context Diagram (DFD Level 0)
+<img width="1408" height="768" alt="DFD Level 0" src="https://github.com/user-attachments/assets/ae804e33-2381-45d9-bd38-b843bd894f9e" />
+
+--Level-1 Data Flow Diagram (DFD Level 1)
+<img width="2104" height="496" alt="DFD Level 1" src="https://github.com/user-attachments/assets/c89b94ba-3cc6-4f6f-9d34-7585b0217843" />
+
+
+
+
+
 
 ## 📌 Notes
 
