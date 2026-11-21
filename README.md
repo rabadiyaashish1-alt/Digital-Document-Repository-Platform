@@ -1,9 +1,6 @@
 # Digital Document Repository Platform
 
-A full-stack web application built for **BCA 5th Semester – Web Application Development using PHP**.
-Users can register, log in, upload documents (PDF, DOCX, PPT, JPG, PNG), organize them into
-categories, search/download/preview/edit them, and manage their profile. Admins get a
-separate panel to manage users, documents, categories and view upload reports/analytics.
+A full-stack document management web application built with PHP and MySQL. Users can register, log in, upload files (PDF, DOCX, PPT, JPG, PNG), organize documents by category, and search, preview, edit, or download them, while administrators get a dedicated dashboard to manage users, categories, documents, and upload analytics.
 
 ---
 
