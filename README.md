@@ -220,8 +220,7 @@ role you just logged out of.
 
 ---
 
-## 👨‍🎓 Project Info
+## 👨‍🎓 Author
 
-**Subject:** Web Application Development using PHP
-**Course:** BCA – 5th Semester
-**Project Title:** Digital Document Repository Platform
+**Ashish Rabadiya**  
+* GitHub: [@rabadiyaashish1-alt](https://github.com)
